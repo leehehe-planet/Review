@@ -1,1 +1,3 @@
-# Review
+회고록
+
+아 JavaScript 도대체 언제 끝나냐!
